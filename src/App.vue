@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h1>黑马头条内容发布系统</h1>
     <router-view></router-view>
   </div>
 </template>
@@ -11,4 +10,8 @@ export default {
 }
 </script>
 
-<style lang="less" scoped></style>
+<style lang="less" scoped>
+.el-form {
+  margin: 100px auto;
+}
+</style>

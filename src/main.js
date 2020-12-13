@@ -2,7 +2,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
-
+import './mock/index'
 // 加载element组件库
 import ElementUI from 'element-ui'
 
